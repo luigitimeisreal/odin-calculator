@@ -16,7 +16,7 @@ button {
 }
 
 .calculator {
-  height: 750px;
+  height: 600px;
   width: 500px;
   background-color: white;
   color: black;
@@ -25,4 +25,7 @@ button {
 
 .display {
   text-align: center;
+  background-color: grey;
+  margin: 20px;
+  border-radius: 2em;
 }
